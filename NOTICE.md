@@ -11,6 +11,11 @@ Both articles are open access under a Creative Commons Attribution (CC BY 4.0) l
 
 - Michie S, Richardson M, Johnston M, et al. The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques. *Annals of Behavioral Medicine*. 2013;46(1):81-95.
 
-The definitions are from the Behaviour Change Intervention Ontology (BCIO) of the Human Behaviour-Change Project, licensed CC BY 4.0 (https://www.humanbehaviourchange.org/). The 94-code set, including 4.5, is the variant used in HBCP annotation. The 16 group rows are organizational parents written for this study; they are not ontology definitions and are not coded.
+Definitions were copied verbatim from the BCT Ontology (file `bcto.xlsx` in the Human Behaviour-Change Project ontologies repository, commit d94a5d7 of 30 September 2026), licensed CC BY 4.0. The 94-code set, including 4.5, is the variant used in HBCP annotation. The 16 group rows are organizational parents written for this study; they are not ontology definitions and are not coded.
 
-**HBCP corpus and annotations.** The Study B papers and expert annotations are not redistributed here. `study-b/scripts/fetch_inputs.py` downloads them from the Human Behaviour-Change Project's [Info-extract](https://github.com/HumanBehaviourChangeProject/Info-extract) repository (Copyright 2018 UCL, Apache License 2.0). See also: Michie S, et al. The Human Behaviour-Change Project. *Implementation Science*. 2017;12:121.
+**HBCP reports and annotations** (fetched by `study-b/scripts/fetch_inputs.py`, not redistributed here). Both come from the Human Behaviour-Change Project's [Info-extract](https://github.com/HumanBehaviourChangeProject/Info-extract) repository:
+
+- The reports are the OA-HBCP Corpus version 1.0, released under CC BY-SA 3.0.
+- The annotations are the export `Smoking_AllAnnotations_01Apr19.json`. No file-specific licence was found; the repository's root licence is Apache 2.0 (Copyright 2018 UCL).
+
+See also: Michie S, et al. The Human Behaviour-Change Project. *Implementation Science*. 2017;12:121.

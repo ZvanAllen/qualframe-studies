@@ -1,0 +1,34 @@
+project_id: study-a-workflow-prompts
+title: "Study A - workflow prompts"
+created_at_utc: '2026-10-11T16:19:55.038511+00:00'
+data_classification: deidentified
+source_manifest: studies/study-a-workflow-prompts/source_import_manifest.jsonl
+mode: transcript_first
+paths:
+  raw_transcripts: studies/study-a-workflow-prompts/data/raw/transcripts
+  raw_workbooks: studies/study-a-workflow-prompts/data/raw/workbooks
+  reference: studies/study-a-workflow-prompts/data/reference
+  working: studies/study-a-workflow-prompts/data/working
+  artifacts: studies/study-a-workflow-prompts/artifacts
+  review_queue: studies/study-a-workflow-prompts/review_queue
+  exports: studies/study-a-workflow-prompts/exports
+  logs: studies/study-a-workflow-prompts/logs
+governance:
+  enforce_review_gates: true
+  require_release_for_export: true
+structured_output:
+  enforce: false
+  spec: config/schemas/cfir_stage_outputs_v1.yaml
+framework: config/frameworks/cfir_v1.yaml
+pipeline: studies/study-a-workflow-prompts/config/pipeline_v1.yaml
+method: studies/study-a-workflow-prompts/config/method_v1.yaml
+provider:
+  name: openai
+  model: gpt-6.1-sol
+  api_key_env: OPENAI_API_KEY
+  max_tokens: 32000
+  temperature: null
+  api_mode: responses
+  reasoning_effort: low
+  anthropic_effort: null
+review_policy: config/review_policies/complete_review_v1.yaml
