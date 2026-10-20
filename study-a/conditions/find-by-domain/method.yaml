@@ -1,0 +1,144 @@
+id: study-a-find-by-domain_method_v2
+version: 3.0.0
+name: Study A 2x2 – find, by domain analysis method
+analysis_family: directed_content_analysis
+evidence_location: unique_exact_quote
+segmentation:
+  strategy: model_proposed
+  editable: true
+  allow_overlapping_units: false
+context:
+  unit: sentences
+  before: 1
+  after: 1
+coding:
+  decision_style: find_passages
+  cardinality: multi_label
+  allow_overlapping_spans: true
+partitioning:
+  strategy: custom_groups
+  custom_groups:
+    Innovation:
+    - cfir-943b0da2ccef1d6f514c
+    - cfir-1f45f8805675628aaf15
+    - cfir-4e67cfe7e1c7b9775656
+    - cfir-5765b9757cb6b7922d38
+    - cfir-db100c64625b4c5d1ae9
+    - cfir-1cd084abf2419b631adc
+    - cfir-971d4ec0fc620a903d82
+    - cfir-93f1df9edb09ef69a075
+    Outer Setting:
+    - cfir-91668d4505f8bd38cde9
+    - cfir-e0c6b6791fc0fd96cdd7
+    - cfir-bbaf14c498dd8187bc37
+    - cfir-3457226b0498b3f4c86a
+    - cfir-0fc9d980b4b5d54523da
+    - cfir-de8489aa1ed90c551e44
+    - cfir-1b3858e1e56d81401247
+    - cfir-142fdd662fa9993217da
+    - cfir-7e15d770dbb8e41577e6
+    - cfir-ab2ef5dbd01f16607d40
+    Inner Setting:
+    - cfir-6a57c20e91d8f2db002a
+    - cfir-0d9a342a3598a0cdc2e5
+    - cfir-e5d3a41fa609dd4227c4
+    - cfir-e2c97ca38abd0d1f6ac1
+    - cfir-14d0382c325193eca32b
+    - cfir-0cb4d9a82dfe849cc305
+    - cfir-288f52145e8893025181
+    - cfir-047e8d77a0947bf61567
+    - cfir-a88261ca033d2a1d6132
+    - cfir-e97c80d16153cd2b7fd4
+    - cfir-1030f188926d49330c60
+    - cfir-8a23d774e4625f8e27e6
+    - cfir-3149f4349447345611de
+    - cfir-4dc8da41563c32c0c1e0
+    - cfir-4693e94317fcb7b62fd9
+    - cfir-b42f28430e9a985c1231
+    - cfir-a74b2bfc5263b0401287
+    - cfir-2a1030dfb45db354ec6f
+    - cfir-50c356c28420c7a91140
+    - cfir-df466f0f95851a3361b4
+    - cfir-dcb05b7a7579c458b5ec
+    Individuals:
+    - cfir-95d84d58f79950976ba8
+    - cfir-f8ae30cbb0afd9d2e0c2
+    - cfir-aac3554e3405130ac3ce
+    - cfir-19a1296d6209e527c406
+    - cfir-7e034911316da1ca741e
+    - cfir-de3f2b9647740575cc26
+    - cfir-d8ed35480f552ba5437d
+    - cfir-a720b04db424199fafd9
+    - cfir-0faf06c8ecfe36f37eb8
+    - cfir-32bf35084af2c6a419a1
+    - cfir-36007f15e81faaeaa743
+    - cfir-d2e20a4304cbdeb08f95
+    - cfir-554254f867af7cdc7820
+    - cfir-bc603fbc3798f44f1f5d
+    - cfir-7231dbd234fda6eff798
+    - cfir-48f9bf47e14259820342
+    - cfir-227f4b85e6c6c678776f
+    - cfir-baa40862df75b7f5a62c
+    - cfir-b5aabb28a953448c3582
+    - cfir-6e28653ae5a01f51fe83
+    - cfir-b7c2dd18ac8687cac45d
+    - cfir-50179dd5837da39a90a6
+    - cfir-7810f2746521205b952c
+    - cfir-718e13bb6be578c77e89
+    - cfir-18e0f4a881425b5e6be8
+    - cfir-e8560f32d321f6bdfe75
+    - cfir-0131ac57faa0e0583463
+    - cfir-e9b4b051ce8b496ab0fb
+    - cfir-e1c07b478089261ea04d
+    - cfir-c553ab67cd5cd8d77a95
+    - cfir-8018351ba6f6a4d33d65
+    - cfir-6555fb45dd151b2efac3
+    - cfir-363f80b87bd23a486225
+    - cfir-62baa48e141a5a11e9b4
+    - cfir-0197d313fec6903b6531
+    - cfir-ea8cd43705a05a476151
+    - cfir-dc4569666a185dcc36e4
+    - cfir-4b35d99880e8a92c01bb
+    - cfir-701cc7310f3b91c64b9e
+    - cfir-456ed722e089d1062df7
+    - cfir-e42a7dfc8595fcbc2c96
+    - cfir-ba67770fb37900e93835
+    - cfir-dafda1d8faf15d247525
+    - cfir-bf171ec1ec8e5e52009d
+    - cfir-02cf68b8351b43df12f2
+    Implementation Process:
+    - cfir-c74e202f0f20c341b3bd
+    - cfir-9df17ccafcd022fd3167
+    - cfir-d2e3be32346ff668677b
+    - cfir-9a9c6bc061e1175c769a
+    - cfir-074029a9b2b1706edacd
+    - cfir-839343ed8825f9afcc4b
+    - cfir-54174dc06b163baee1e2
+    - cfir-318c8ac6d21ebf08cef6
+    - cfir-62496fc8f71414e971f6
+    - cfir-358416c9a101c45c31ad
+    - cfir-2ccfa6eb725137085066
+    - cfir-6d5c8ee5b96ed56be214
+    - cfir-f1a443c487cc453464ef
+    - cfir-95aa82267108862a8261
+    - cfir-858c9b0987e566350de5
+    Outcomes Addendum:
+    - cfir-7649d8910d424ba79edb
+    - cfir-a6645a0285208d468f9b
+    - cfir-b144e7acd66228847d42
+    - cfir-f31bf3a4558803d7780e
+    - cfir-a02a1da52f99efc93b71
+    - cfir-734766af8057148f2bb4
+    - cfir-db26334f698a47726b02
+    - cfir-77e4864d81251e87a4a3
+    - cfir-458ba63845859e22701d
+    - cfir-039371774d4ab0fb2c04
+    - cfir-183ce76cc0063ccb45a9
+    - cfir-0bb86ab903f918b250ce
+    - cfir-a8e072939ed8c5a108c4
+    - cfir-63aafcf9c642299f2e04
+    - cfir-84a5672cef4ac04fa006
+    - cfir-ac20b575ee5434b387d9
+calibration:
+  complete_review_required: true
+  reference_status: human_adjudicated

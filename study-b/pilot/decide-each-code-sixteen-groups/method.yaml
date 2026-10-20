@@ -1,0 +1,23 @@
+id: study-b-pilot-decide-each-code-sixteen-groups_method_v2
+version: 1.0.1
+name: "Study B pilot \u2013 decide_each_code, sixteen_groups analysis method"
+analysis_family: directed_content_analysis
+evidence_location: unique_exact_quote
+segmentation:
+  strategy: model_proposed
+  editable: true
+  allow_overlapping_units: false
+context:
+  unit: sentences
+  before: 1
+  after: 1
+coding:
+  decision_style: decide_each_code
+  cardinality: multi_label
+  allow_overlapping_spans: true
+partitioning:
+  strategy: per_top_level_category
+  custom_groups: {}
+calibration:
+  complete_review_required: true
+  reference_status: human_adjudicated

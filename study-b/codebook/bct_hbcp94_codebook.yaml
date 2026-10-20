@@ -1,0 +1,1225 @@
+id: study-b-hbcp-bct-active-v1
+version: 1.0.0
+name: Study B HBCP BCT codebook
+codes:
+- id: '1.1'
+  label: Goal setting (behavior)
+  parent_id: G1
+  definition: "BCIO:007003 | set behaviour goal BCT \nA <goal setting BCT> that sets\
+    \ a goal for the behaviour to be achieved.\n\nBCIO:007004 | agree behaviour goal\
+    \ BCT \nA <set behaviour goal BCT> that involves the intervention source agreeing\
+    \ with the person on a behavioural goal."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '1.2'
+  label: Problem solving
+  parent_id: G1
+  definition: 'BCIO:007008 | goal strategising BCT
+
+    A <goal directed BCT> in which the person analyses factors influencing the behaviour
+    and generates, selects, or reviews strategies to increase facilitators and overcome
+    barriers.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '1.3'
+  label: Goal setting (outcome)
+  parent_id: G1
+  definition: 'BCIO:007005 | set outcome goal BCT
+
+    A <goal setting BCT> in which the goal is a positive outcome of performing the
+    behaviour.
+
+
+    BCIO:007006 | agree outcome goal BCT
+
+    A <set outcome goal BCT> that involves the intervention source agreeing with the
+    person on a goal which is a positive outcome of performing the behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '1.4'
+  label: Action planning
+  parent_id: G1
+  definition: "BCIO:007010 | action planning BCT \nA <goal directed BCT> that involves\
+    \ making a detailed plan for the performance of the behaviour, which must include\
+    \ at least one of context, frequency, duration or intensity."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '1.5'
+  label: Review behavior goal(s)
+  parent_id: G1
+  definition: "BCIO:007011 | review behaviour goal BCT \nA <goal directed BCT> that\
+    \ reviews a behavioural goal and considers modifying the goal in light of progress\
+    \ toward the goal."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '1.6'
+  label: Discrepancy between current behavior and goal
+  parent_id: G1
+  definition: "BCIO:007012 | attend to discrepancy between current behaviour and goal\
+    \ BCT \nA <goal directed BCT> that draws attention to discrepancies between a\
+    \ person's current behaviour and the person's outcome goal, behavioural goal or\
+    \ action plan."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '1.7'
+  label: Review outcome goal(s)
+  parent_id: G1
+  definition: "BCIO:007013 | review outcome goal BCT \nA <goal directed BCT> that\
+    \ reviews an outcome goal and considers modifying the goal in light of achievement."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '1.8'
+  label: Behavioral contract
+  parent_id: G1
+  definition: "BCIO:007014 | create behavioural contract BCT \nA <goal directed BCT>\
+    \ that creates a written specification of the behaviour to be performed, agreed\
+    \ on by the person, and witnessed by another person."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '1.9'
+  label: Commitment
+  parent_id: G1
+  definition: "BCIO:007015 | affirm commitment BCT \nA <goal directed BCT> that asks\
+    \ the person to affirm or reaffirm statements indicating commitment to change\
+    \ the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '2.1'
+  label: Monitoring of behavior by others without feedback
+  parent_id: G2
+  definition: "BCIO:007018 | observe behaviour without feedback BCT \nA <monitoring\
+    \ BCT> that observes current performance of the behaviour with the person\u2019\
+    s knowledge but without providing feedback about their behaviour.\n\nBCIO:007019\
+    \ | record behaviour without feedback BCT \nA <monitoring BCT> that records current\
+    \ performance of the behaviour with the person\u2019s knowledge but without providing\
+    \ feedback about their behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '2.2'
+  label: Feedback on behaviour
+  parent_id: G2
+  definition: "BCIO:007023 | provide feedback on behaviour BCT \nA <provide feedback\
+    \ BCT> that provides information about the person's previous performance of the\
+    \ behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '2.3'
+  label: Self-monitoring of behavior
+  parent_id: G2
+  definition: "BCIO:007024 | self-monitor behaviour BCT \nA <monitoring BCT> in which\
+    \ the person uses a method to monitor and record their behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '2.4'
+  label: Self-monitoring of outcome(s) of behaviour
+  parent_id: G2
+  definition: "BCIO:007025 | self-monitor outcome of behaviour BCT \nA <monitoring\
+    \ BCT> in which the person uses a method to monitor and record an outcome of their\
+    \ behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '2.5'
+  label: Monitoring of outcome(s) of behavior without feedback
+  parent_id: G2
+  definition: "BCIO:007020 | observe outcome of behaviour without feedback BCT \n\
+    A <monitoring BCT> that observes an outcome of performing the behaviour with the\
+    \ person\u2019s knowledge but without providing feedback about the outcome.\n\n\
+    BCIO:007021 | record outcome of behaviour without feedback BCT \nA <monitoring\
+    \ BCT> that records an outcome of performing the behaviour with the person's knowledge\
+    \ but without providing feedback about the outcome."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '2.6'
+  label: Biofeedback
+  parent_id: G2
+  definition: "BCIO:007026 | provide biofeedback BCT \nA <provide feedback BCT> that\
+    \ provides information about the functioning or state of the person's body, based\
+    \ on information collected by an external monitoring device."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '2.7'
+  label: Feedback on outcome(s) of behavior
+  parent_id: G2
+  definition: "BCIO:007027 | provide feedback on outcome of behaviour BCT \nA <provide\
+    \ feedback BCT> that provides information about an outcome of the person's previous\
+    \ performance of the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '3.1'
+  label: Social support (unspecified)
+  parent_id: G3
+  definition: 'BCIO:007028 | social support BCT
+
+    A <behaviour change technique> that involves taking steps to secure or deliver
+    the support or aid of another person.
+
+
+    BCIO:007029 | advise to seek support BCT
+
+    A <social support BCT> that involves advising the person to seek support from
+    another person.
+
+
+    BCIO:007034 | arrange support BCT
+
+    A <social support BCT> that organises support from another for the person.
+
+
+    BCIO:007039 | deliver support BCT
+
+    A <social support BCT> that directly provides support to the person.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '3.2'
+  label: Social support (practical)
+  parent_id: G3
+  definition: "BCIO:007030 | advise to seek instrumental support BCT \nAn <advise\
+    \ to seek support BCT> that suggests the person try to obtain support from another\
+    \ in terms of tangible aid.\n\nBCIO:007035 | arrange instrumental support BCT\
+    \ \nAn <arrange support BCT> that organises support from another in terms of tangible\
+    \ aid.\n\nBCIO:007040 | deliver instrumental support BCT \nA <deliver support\
+    \ BCT> that provides tangible aid."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '3.3'
+  label: Social support (emotional)
+  parent_id: G3
+  definition: "BCIO:007031 | advise to seek emotional support BCT \nAn <advise to\
+    \ seek support BCT> that suggests the person try to obtain support from another\
+    \ in terms of expressing concern, caring and empathy.\n\nBCIO:007036 | arrange\
+    \ emotional support BCT \nAn <arrange support BCT> that organises support from\
+    \ another in terms of expressing concern, caring and empathy.\n\nBCIO:007041 |\
+    \ deliver emotional support BCT \nA <deliver support BCT> that provides expressions\
+    \ of concern, caring and empathy."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '4.1'
+  label: Instruction on how to perform the behavior
+  parent_id: G4
+  definition: "BCIO:007051 | agree on how to perform behaviour BCT \nA <guide how\
+    \ to perform behaviour BCT> that involves reaching consensus on how to perform\
+    \ the behaviour.\n\nBCIO:007058 | instruct how to perform a behaviour BCT\nA <guide\
+    \ how to perform behaviour BCT> that involves telling the person how to perform\
+    \ the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '4.2'
+  label: Information about Antecedents
+  parent_id: G4
+  definition: "BCIO:007052 | inform about antecedents BCT \nA <suggest different perspective\
+    \ on behaviour BCT> that involves providing factual information to the person\
+    \ regarding triggers or influences that precede the initiation of the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '4.3'
+  label: Re-attribution
+  parent_id: G4
+  definition: "BCIO:007053 | re-attribute cause BCT \nA <suggest different perspective\
+    \ on behaviour BCT> that involves eliciting the person's beliefs about, and suggesting\
+    \ alternative beliefs about, the causes of the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '4.4'
+  label: Behavioral experiments
+  parent_id: G4
+  definition: "BCIO:007054 | conduct a behavioural experiment BCT \nA <behaviour change\
+    \ technique> that advises on how to identify and test hypotheses about the behaviour,\
+    \ its causes and consequences."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '4.5'
+  label: Advise to change behavior
+  parent_id: G4
+  definition: 'BCIO:007076 | suggest to change behaviour BCT
+
+    An <awareness of other people''s thoughts, feelings and actions BCT> that involves
+    sharing a view about what behaviour the person should do.
+
+
+    BCIO:007077 | tell to change behaviour BCT
+
+    An <awareness of other people''s thoughts, feelings and actions BCT> that involves
+    telling the person to perform the behaviour.
+
+
+    BCIO:007078 | implore to change behaviour BCT
+
+    An <awareness of other people''s thoughts, feelings and actions BCT> that makes
+    an emotional or earnest appeal to change the person''s behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '5.1'
+  label: Information about health consequences
+  parent_id: G5
+  definition: "BCIO:007063 | inform about health consequences BCT \nAn <increase awareness\
+    \ of consequences BCT> that provides information about the physical or mental\
+    \ health consequences of performing or not performing the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '5.2'
+  label: Salience of consequences
+  parent_id: G5
+  definition: "BCIO:007068 | increase salience of consequences BCT \nAn <awareness\
+    \ of consequences BCT> that changes behaviour by the source emphasising the consequences\
+    \ of performing a behaviour to the person in a way that makes them memorable."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '5.3'
+  label: Information about social and environmental consequences
+  parent_id: G5
+  definition: "BCIO:007064 | inform about social consequences BCT \nAn <increase awareness\
+    \ of consequences BCT> that provides information about the social consequences\
+    \ of performing or not performing the behaviour.\n\nBCIO:007176 | inform about\
+    \ environmental consequences BCT\nAn <increase awareness of consequences BCT>\
+    \ that provides information about the environmental consequences of performing\
+    \ or not performing the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '5.4'
+  label: Monitoring of emotional consequences
+  parent_id: G5
+  definition: "BCIO:007066 | monitor emotional consequences BCT \nA <monitoring BCT>\
+    \ that involves the person assessing their emotions after performing the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '5.5'
+  label: Anticipated regret
+  parent_id: G5
+  definition: "BCIO:007067 | induce anticipated regret BCT \nAn <inform about emotional\
+    \ consequences BCT> that focuses on expectations of remorse after performing or\
+    \ not performing the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '5.6'
+  label: Information about emotional consequences
+  parent_id: G5
+  definition: "BCIO:007065 | inform about emotional consequences BCT \nAn <increase\
+    \ awareness of consequences BCT> that provides information about the emotional\
+    \ consequences of performing or not performing the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '6.1'
+  label: Demonstration of behavior
+  parent_id: G6
+  definition: "BCIO:007055 | demonstrate the behaviour BCT \nA <guide how to perform\
+    \ behaviour BCT> that provides an observable sample of the performance of the\
+    \ behaviour for the person to aspire to or imitate."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '6.2'
+  label: Social comparison
+  parent_id: G6
+  definition: "BCIO:007073 | prompt social comparison BCT \nAn <awareness of other\
+    \ people's thoughts, feelings and actions BCT> that draws attention to other people's\
+    \ behaviour and compares it with the person's own behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '6.3'
+  label: Information about others' approval
+  parent_id: G6
+  definition: 'BCIO:007074 | increase awareness of others appraisal of the behaviour
+    BCT
+
+    An <awareness of other people''s thoughts, feelings and actions BCT> that increases
+    awareness of whether others will like, approve, dislike, or disapprove of the
+    behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '7.1'
+  label: Prompts/cues
+  parent_id: G7
+  definition: "BCIO:007080 | prompt intended action BCT\nAn <alter external stimulus\
+    \ BCT> that involves introducing an external stimulus to facilitate the behaviour\
+    \ for which an intention has previously been formed.\n\nBCIO:007081 | cue BCT\
+    \ \nAn <alter external stimulus BCT> that introduces external information that\
+    \ is already associated with the behaviour in order to elicit that behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '7.2'
+  label: Cue signalling reward
+  parent_id: G7
+  definition: "BCIO:007082 | cue signalling reward BCT \nAn <alter external stimulus\
+    \ BCT> that identifies an external stimulus that reliably signals that reward\
+    \ will follow the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '7.3'
+  label: Reduce prompts/cues
+  parent_id: G7
+  definition: 'BCIO:007084 | reduce cue frequency BCTs
+
+    An <alter external stimulus BCT> in which cues for the behaviour are presented
+    less frequently.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '7.4'
+  label: Remove access to the reward
+  parent_id: G7
+  definition: "BCIO:007092 | associative learning to extinguish behaviour BCT \nAn\
+    \ <associative learning BCT> that stops the presentation of a reward for the behaviour.\n\
+    \nBCIO:007293 | remove positive consequence for behaviour BCT\nA <remove consequence\
+    \ for behaviour BCT> where the consequence is positive."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '7.5'
+  label: Remove aversive stimulus
+  parent_id: G7
+  definition: 'BCIO:050331 | remove aversive stimulus BCT
+
+    An <alter external stimulus BCT> that involves removing an aversive stimulus to
+    bring about behaviour change.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '7.6'
+  label: Satiation
+  parent_id: G7
+  definition: "BCIO:007087 | arrange satiation BCT \nAn <expose to stimulus BCT> that\
+    \ provides sustained exposure to a stimulus to reduce or extinguish an unwanted\
+    \ behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '7.7'
+  label: Exposure
+  parent_id: G7
+  definition: 'BCIO:007085 | expose to stimulus BCT
+
+    An <alter external stimulus BCT> that sustains the person''s exposure to a stimulus
+    associated with the behaviour.
+
+
+    BCIO:007170 | expose to sustained aversive stimulus BCT
+
+    An <expose to stimulus BCT> that involves sustained exposure to an aversive stimulus
+    to reduce the likelihood of the behaviour when encountering that stimulus.
+
+
+    BCIO:007172 | gradually increase exposure to aversive stimulus BCT
+
+    An <expose to stimulus BCT> that involves gradually increasing exposure to an
+    aversive stimulus to reduce the likelihood of the behaviour when encountering
+    that stimulus.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '7.8'
+  label: Associative learning
+  parent_id: G7
+  definition: 'BCIO:007090 | associative learning BCT
+
+    A <behaviour change technique> that involves repeated pairing of a stimulus with
+    another stimulus or with a behavioural outcome.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '8.1'
+  label: Behavioral practice/rehearsal
+  parent_id: G8
+  definition: "BCIO:007094 | practise behaviour BCT \nAn <advise specific behaviour\
+    \ BCT> that advises repetition of the behaviour in a way that has the function\
+    \ of increasing the skill in performing the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '8.2'
+  label: Behavior substitution
+  parent_id: G8
+  definition: "BCIO:007095 | substitute behaviour BCT \nAn <advise specific behaviour\
+    \ BCT> that advises the person to replace the unwanted behaviour with another\
+    \ behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '8.3'
+  label: Habit formation
+  parent_id: G8
+  definition: 'BCIO:007096 | context-specific repetition of behaviour BCT
+
+    An <advise specific behaviour BCT> that advises the person to repeat the behaviour
+    in the same context.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '8.4'
+  label: Habit reversal
+  parent_id: G8
+  definition: 'BCIO:007097 | context-specific repetition of alternative behaviour
+    BCT
+
+    An <advise specific behaviour BCT> that advises the person to repeat an alternative
+    behaviour consistently in a context that previously elicited an unwanted behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '8.5'
+  label: Overcorrection
+  parent_id: G8
+  definition: "BCIO:007098 | overcorrect unwanted behaviour BCT \nAn <advise specific\
+    \ behaviour BCT> that advises the person to repeat a wanted behaviour in an exaggerated\
+    \ way following performance of an unwanted behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '8.6'
+  label: Generalisation of target behavior
+  parent_id: G8
+  definition: "BCIO:007099 | generalise behaviour BCT \nAn <advise specific behaviour\
+    \ BCT> that advises the person to perform the behaviour which is already performed\
+    \ in a particular context, in a similar context."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '8.7'
+  label: Graded tasks
+  parent_id: G8
+  definition: 'BCIO:007100 | set graded tasks BCT
+
+    A <goal directed BCT> that sets easy-to-perform tasks for the person, making them
+    increasingly difficult, but achievable, until the behaviour is performed.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '9.1'
+  label: Credible source
+  parent_id: G9
+  definition: 'BCIO:007075 | present information from credible influence BCT
+
+    An <awareness of other people''s thoughts, feelings and actions BCT> that presents
+    information from a credible person or organisation to influence the behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '9.2'
+  label: Pros and cons
+  parent_id: G9
+  definition: 'BCIO:007069 | consider pros and cons BCT
+
+    An <increase awareness of consequences BCT> that advises identification and comparison
+    of the positive and negative consequences of performing or not performing the
+    behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '9.3'
+  label: Comparative imagining of future outcomes
+  parent_id: G9
+  definition: 'BCIO:007070 | prompt comparative imagining of future outcomes BCT
+
+    An <increase awareness of consequences BCT> that guides the person to imagine
+    and compare the consequences of performing and not performing the behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '10.1'
+  label: Material incentive (behavior)
+  parent_id: G10
+  definition: 'BCIO:007209 | promise positive material consequence for behaviour BCT
+
+    A <promise positive consequence for behaviour BCT> where the consequence is money,
+    vouchers or other valued objects.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '10.2'
+  label: Material reward (behavior)
+  parent_id: G10
+  definition: 'BCIO:007257 | provide positive material consequence for behaviour BCT
+
+    A <provide positive consequence for behaviour BCT> where the consequence is money,
+    vouchers or other valued objects.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '10.3'
+  label: Non-specific reward
+  parent_id: G10
+  definition: 'BCIO:007252 | provide positive consequence for behaviour BCT
+
+    A <provide consequence for behaviour BCT> where the consequence is positive.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '10.4'
+  label: Social reward
+  parent_id: G10
+  definition: 'BCIO:007265 | provide positive social consequence for behaviour BCT
+
+    A <provide positive consequence for behaviour BCT> where the consequence is an
+    interpersonal process or a proxy interpersonal process.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '10.5'
+  label: Social incentive
+  parent_id: G10
+  definition: 'BCIO:007218 | promise positive social consequence for behaviour BCT
+
+    A <promise positive consequence for behaviour BCT> where the consequence is an
+    interpersonal process or a proxy interpersonal process.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '10.6'
+  label: Non-specific incentive
+  parent_id: G10
+  definition: 'BCIO:007202 | promise positive consequence for behaviour BCT
+
+    A <promise consequence for behaviour BCT> where the consequence is positive.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '10.7'
+  label: Self-incentive
+  parent_id: G10
+  definition: 'BCIO:007202 | promise positive consequence for behaviour BCT
+
+    A <promise consequence for behaviour BCT> where the consequence is positive.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '10.8'
+  label: Incentive (outcome)
+  parent_id: G10
+  definition: 'BCIO:007216 | promise positive consequence for outcome of behaviour
+    BCT
+
+    A <promise consequence for outcome of behaviour BCT> where the consequence is
+    positive'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '10.9'
+  label: Self-reward
+  parent_id: G10
+  definition: 'BCIO:007252 | provide positive consequence for behaviour BCT
+
+    A <provide consequence for behaviour BCT> where the consequence is positive.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '10.10'
+  label: Reward (outcome)
+  parent_id: G10
+  definition: 'BCIO:007264 | provide positive consequence for outcome of behaviour
+    BCT
+
+    A <provide consequence for outcome of behaviour BCT> where the consequence is
+    positive.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '10.11'
+  label: Future punishment
+  parent_id: G10
+  definition: 'BCIO:007189 | promise aversive consequence for behaviour BCT
+
+    A <promise consequence for behaviour BCT> where the consequence is aversive.
+
+
+    BCIO:007203 | promise to remove positive consequence for behaviour BCT
+
+    A <promise to remove consequence for behaviour BCT> where the consequence is positive.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '11.1'
+  label: Pharmacological support
+  parent_id: G11
+  definition: "BCIO:007144 | promote pharmacological support BCT\nA <behaviour change\
+    \ technique> promoting medicines or other drugs.\n\nBCIO:007145 | provide pharmacological\
+    \ support BCT \nA <promote pharmacological support BCT> that provides the person\
+    \ with medicines or other drugs.\n\nBCIO:007146 | encourage pharmacological support\
+    \ BCT \nA <promote pharmacological support BCT> that encourages the person to\
+    \ use medicines or other drugs."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '11.2'
+  label: Reduce negative emotions
+  parent_id: G11
+  definition: 'BCIO:050344 | advise how to reduce negative emotions BCT
+
+    An <advise how to change emotions BCT> suggesting a method to decrease negative
+    emotions.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '11.3'
+  label: Conserving mental resources
+  parent_id: G11
+  definition: "BCIO:007134 | conserve mental resources BCT \nA <manage mental processes\
+    \ BCT> that advises a way to minimise demands on mental resources."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '11.4'
+  label: Paradoxical instructions
+  parent_id: G11
+  definition: 'BCIO:007135 | advise paradoxical behaviour BCT
+
+    An <advise specific behaviour BCT> that advises the person to engage in an unwanted
+    behaviour in a way that is aversive.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '12.1'
+  label: Restructuring the physical environment
+  parent_id: G12
+  definition: 'BCIO:050348 | restructure the physical environment BCT
+
+    A <restructure the environment BCT> that alters the physical environment in which
+    the behaviour is, or would have been, performed in a way that facilitates or impedes
+    the behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '12.2'
+  label: Restructuring the social environment
+  parent_id: G12
+  definition: 'BCIO:050349 | restructure the social environment BCT
+
+    A <restructure the environment BCT> that alters the social environment in which
+    the behaviour is, or would have been, performed in a way that facilitates or impedes
+    the behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '12.3'
+  label: Avoidance/reducing exposure to cues for the behavior
+  parent_id: G12
+  definition: "BCIO:007153 | reduce exposure to cues for the behaviour BCT \nAn <alter\
+    \ external stimulus BCT> that reduces an external stimulus that signals the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '12.4'
+  label: Distraction
+  parent_id: G12
+  definition: "BCIO:007154 | advise distraction BCT \nA <manage mental processes BCT>\
+    \ that advises the person to find an alternative focus for attention in order\
+    \ to avoid internal or external states or events associated with an unwanted behaviour.\n\
+    \nBCIO:007155 | provide distraction BCT \nA <restructure the physical environment\
+    \ BCT> that organises an alternative focus for attention for the person to avoid\
+    \ internal or external states or events associated with an unwanted behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '12.5'
+  label: Adding objects to the environment
+  parent_id: G12
+  definition: "BCIO:007156 | add objects to the environment BCT \nA <restructure the\
+    \ physical environment BCT> that adds objects to the person's physical surroundings."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '12.6'
+  label: Body changes
+  parent_id: G12
+  definition: 'BCIO:007136 | change the body BCT
+
+    A <behaviour change technique> that alters the structure or functioning of the
+    person''s body.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '13.1'
+  label: Identification of self as role model
+  parent_id: G13
+  definition: "BCIO:007158 | identify self as role model BCT \nA <prompt focus on\
+    \ self-identity BCT> that informs the person that their behaviour may be an example\
+    \ to others."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '13.2'
+  label: Framing/reframing
+  parent_id: G13
+  definition: 'BCIO:007056 | reframe past behaviour BCT
+
+    A <suggest different perspective on behaviour BCT> that involves reattributing
+    a person''s successes to internal, stable or global factors or failures to external,
+    unstable or specific factors.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '13.3'
+  label: Incompatible beliefs
+  parent_id: G13
+  definition: 'BCIO:007057 | draw attention to incompatible beliefs BCT
+
+    A <suggest different perspective on behaviour BCT> that draws the person''s attention
+    to the discrepancies between current or past behaviour and self-identity.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '13.4'
+  label: Valued self-identify
+  parent_id: G13
+  definition: "BCIO:007159 | affirm valued self-identity BCT \nA <prompt focus on\
+    \ self-identity BCT> that advises engagement in activities that affirm the person's\
+    \ valued attributes."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '13.5'
+  label: Identity associated with changed behavior
+  parent_id: G13
+  definition: "BCIO:007160 | adopt changed self-identity BCT \nA <prompt focus on\
+    \ self-identity BCT> that promotes the adoption of a self-identity as someone\
+    \ who engages in the behaviour that is different from their previous behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '14.1'
+  label: Behavior cost
+  parent_id: G14
+  definition: "BCIO:007092 | associative learning to extinguish behaviour BCT \nAn\
+    \ <associative learning BCT> that stops the presentation of a reward for the behaviour.\n\
+    \nBCIO:007293 | remove positive consequence for behaviour BCT\nA <remove consequence\
+    \ for behaviour BCT> where the consequence is positive."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '14.2'
+  label: Punishment
+  parent_id: G14
+  definition: 'BCIO:007241 | provide aversive consequence for behaviour BCT
+
+    A <provide consequence for behaviour BCT> where the consequence is aversive.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '14.3'
+  label: Remove reward
+  parent_id: G14
+  definition: "BCIO:007092 | associative learning to extinguish behaviour BCT \nAn\
+    \ <associative learning BCT> that stops the presentation of a reward for the behaviour.\n\
+    \nBCIO:007293 | remove positive consequence for behaviour BCT\nA <remove consequence\
+    \ for behaviour BCT> where the consequence is positive."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '14.4'
+  label: Reward approximation
+  parent_id: G14
+  definition: 'BCIO:007253 | provide positive consequence for approximating behaviour
+    BCT
+
+    A <provide positive consequence for behaviour BCT> where the consequence is provided
+    as the performance gradually gets closer to the behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '14.5'
+  label: Rewarding completion
+  parent_id: G14
+  definition: 'BCIO:007254 | provide positive consequence for completion of behavioural
+    sequence BCT
+
+    A <provide positive consequence for behaviour BCT> where the consequence is provided
+    for performing the final behaviour in a sequence of behaviours, followed by adding
+    behaviours that occur earlier in the sequence.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '14.6'
+  label: Situation-specific reward
+  parent_id: G14
+  definition: 'BCIO:007256 | provide positive consequence for situation specific behaviour
+    BCT
+
+    A <provide positive consequence for behaviour BCT> that provides the consequence
+    for the behaviour in one situation but not in another.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '14.7'
+  label: Reward incompatible behavior
+  parent_id: G14
+  definition: 'BCIO:007255 | provide positive consequence for incompatible behaviour
+    BCT
+
+    A <provide positive consequence for behaviour BCT> that provides the consequence
+    for a behaviour that is incompatible with the unwanted behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '14.8'
+  label: Reward alternative behavior
+  parent_id: G14
+  definition: 'BCIO:007251 | provide positive consequence for alternative behaviour
+    BCT
+
+    A <provide positive consequence for behaviour BCT> that provides the consequence
+    for a behaviour that is different from the unwanted behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '14.9'
+  label: Reduce reward frequency
+  parent_id: G14
+  definition: 'BCIO:007279 | provide reduced frequency of positive consequence for
+    behaviour BCT
+
+    A <provide positive consequence for behaviour BCT> that provides the consequence
+    at increasingly less frequent intervals.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '14.10'
+  label: Remove punishment
+  parent_id: G14
+  definition: 'BCIO:007286 | remove aversive consequence for behaviour BCT
+
+    A <remove consequence for behaviour BCT> where the consequence is aversive.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '15.1'
+  label: Verbal persuasion about capability
+  parent_id: G15
+  definition: 'BCIO:007137 | persuade about personal capability BCT
+
+    A <prompt thinking related to successful performance BCT> that persuades the person
+    that they can successfully perform the behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '15.2'
+  label: Mental rehearsal of successful performance
+  parent_id: G15
+  definition: 'BCIO:007138 | prompt mental rehearsal of successful performance BCT
+
+    A <prompt thinking related to successful performance BCT> that prompts the person
+    to practise imagining performing the behaviour well in a relevant context.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '15.3'
+  label: Focus on past success
+  parent_id: G15
+  definition: 'BCIO:007139 | prompt focus on past success BCT
+
+    A <prompt thinking related to successful performance BCT> that prompts the person
+    to think about previous successful performance of the behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '15.4'
+  label: Self-talk
+  parent_id: G15
+  definition: 'BCIO:007140 | prompt self-talk BCT
+
+    A <prompt thinking related to successful performance BCT> that promotes the use
+    of positive self-talk before or during the behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '16.1'
+  label: Imaginary punishment
+  parent_id: G16
+  definition: 'BCIO:007118 | imagine punishment BCT
+
+    An <increase awareness of consequences BCT> that guides the person to imagine
+    performing the unwanted behaviour in a real-life situation followed by experiencing
+    an unpleasant consequence for performing that behaviour.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '16.2'
+  label: Imaginary reward
+  parent_id: G16
+  definition: "BCIO:007119 | imagine reward BCT \nAn <increase awareness of consequences\
+    \ BCT> that guides the person to imagine performing the wanted behaviour in a\
+    \ real-life situation followed by experiencing a pleasant consequence for performing\
+    \ that behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: '16.3'
+  label: Vicarious consequences
+  parent_id: G16
+  definition: "BCIO:007120 | vicarious reward BCT \nAn <increase awareness of consequences\
+    \ BCT> that prompts observation of another person being rewarded when they perform\
+    \ the behaviour.\n\nBCIO:007121 | vicarious punishment BCT\nAn <increase awareness\
+    \ of consequences BCT> that prompts observation of another person being punished\
+    \ when they perform the behaviour."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: G1
+  label: Goals and planning
+  definition: 'BCT taxonomy group 1: Goals and planning. Organizational parent for
+    the techniques in this group. This is a group, not a technique to code. Assign
+    only the applicable child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G2
+  label: Feedback and monitoring
+  definition: 'BCT taxonomy group 2: Feedback and monitoring. Organizational parent
+    for the techniques in this group. This is a group, not a technique to code. Assign
+    only the applicable child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G3
+  label: Social support
+  definition: 'BCT taxonomy group 3: Social support. Organizational parent for the
+    techniques in this group. This is a group, not a technique to code. Assign only
+    the applicable child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G4
+  label: Shaping knowledge
+  definition: 'BCT taxonomy group 4: Shaping knowledge. Organizational parent for
+    the techniques in this group. This is a group, not a technique to code. Assign
+    only the applicable child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G5
+  label: Natural consequences
+  definition: 'BCT taxonomy group 5: Natural consequences. Organizational parent for
+    the techniques in this group. This is a group, not a technique to code. Assign
+    only the applicable child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G6
+  label: Comparison of behaviour
+  definition: 'BCT taxonomy group 6: Comparison of behaviour. Organizational parent
+    for the techniques in this group. This is a group, not a technique to code. Assign
+    only the applicable child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G7
+  label: Associations
+  definition: 'BCT taxonomy group 7: Associations. Organizational parent for the techniques
+    in this group. This is a group, not a technique to code. Assign only the applicable
+    child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G8
+  label: Repetition and substitution
+  definition: 'BCT taxonomy group 8: Repetition and substitution. Organizational parent
+    for the techniques in this group. This is a group, not a technique to code. Assign
+    only the applicable child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G9
+  label: Comparison of outcomes
+  definition: 'BCT taxonomy group 9: Comparison of outcomes. Organizational parent
+    for the techniques in this group. This is a group, not a technique to code. Assign
+    only the applicable child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G10
+  label: Reward and threat
+  definition: 'BCT taxonomy group 10: Reward and threat. Organizational parent for
+    the techniques in this group. This is a group, not a technique to code. Assign
+    only the applicable child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G11
+  label: Regulation
+  definition: 'BCT taxonomy group 11: Regulation. Organizational parent for the techniques
+    in this group. This is a group, not a technique to code. Assign only the applicable
+    child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G12
+  label: Antecedents
+  definition: 'BCT taxonomy group 12: Antecedents. Organizational parent for the techniques
+    in this group. This is a group, not a technique to code. Assign only the applicable
+    child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G13
+  label: Identity
+  definition: 'BCT taxonomy group 13: Identity. Organizational parent for the techniques
+    in this group. This is a group, not a technique to code. Assign only the applicable
+    child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G14
+  label: Scheduled consequences
+  definition: 'BCT taxonomy group 14: Scheduled consequences. Organizational parent
+    for the techniques in this group. This is a group, not a technique to code. Assign
+    only the applicable child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G15
+  label: Self-belief
+  definition: 'BCT taxonomy group 15: Self-belief. Organizational parent for the techniques
+    in this group. This is a group, not a technique to code. Assign only the applicable
+    child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false
+- id: G16
+  label: Covert learning
+  definition: 'BCT taxonomy group 16: Covert learning. Organizational parent for the
+    techniques in this group. This is a group, not a technique to code. Assign only
+    the applicable child technique codes.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: false

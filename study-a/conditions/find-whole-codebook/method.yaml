@@ -1,0 +1,21 @@
+id: study-a-find-whole-codebook_method_v1
+version: 3.0.0
+name: "Study A - find passages, whole codebook (QualFrame default instructions) analysis method"
+analysis_family: directed_content_analysis
+segmentation:
+  strategy: model_proposed
+  editable: true
+  allow_overlapping_units: false
+context:
+  unit: sentences
+  before: 1
+  after: 1
+coding:
+  cardinality: multi_label
+  allow_overlapping_spans: true
+partitioning:
+  strategy: full_codebook
+calibration:
+  complete_review_required: true
+  reference_status: human_adjudicated
+evidence_location: unique_exact_quote

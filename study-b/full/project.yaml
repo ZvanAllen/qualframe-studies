@@ -1,0 +1,38 @@
+project_id: study-b-hbcp-bct-annotation
+title: "Study B \u2013 HBCP BCT annotation"
+created_at_utc: '2026-10-13T15:03:26.102229+00:00'
+data_classification: published
+source_manifest: studies/study-b-hbcp-bct-annotation/source_import_manifest.jsonl
+mode: transcript_first
+paths:
+  raw_transcripts: studies/study-b-hbcp-bct-annotation/data/raw/transcripts
+  raw_workbooks: studies/study-b-hbcp-bct-annotation/data/raw/workbooks
+  reference: studies/study-b-hbcp-bct-annotation/data/reference
+  working: studies/study-b-hbcp-bct-annotation/data/working
+  artifacts: studies/study-b-hbcp-bct-annotation/artifacts
+  review_queue: studies/study-b-hbcp-bct-annotation/review_queue
+  exports: studies/study-b-hbcp-bct-annotation/exports
+  logs: studies/study-b-hbcp-bct-annotation/logs
+governance:
+  enforce_review_gates: false
+  require_release_for_export: false
+structured_output:
+  enforce: false
+  spec: config/schemas/cfir_stage_outputs_v1.yaml
+framework: config/frameworks/directed_v3.yaml
+pipeline: config/pipelines/directed_content_analysis_contracts_v1.yaml
+method: studies/study-b-hbcp-bct-annotation/config/method_v2.yaml
+review_policy: config/review_policies/complete_review_v1.yaml
+analysis_plan: config/analysis_plans/example_group_comparison_v1.yaml
+provider:
+  name: anthropic
+  model: claude-sonnet-5-5
+  api_key_env: ANTHROPIC_API_KEY
+  max_tokens: 64000
+  temperature: null
+  api_mode: chat_completions
+  reasoning_effort: null
+  anthropic_effort: null
+description: Published intervention reports from the Human Behaviour-Change Project
+  corpus; no participant data.
+codebook: studies/study-b-hbcp-bct-annotation/config/codebook_v1.yaml

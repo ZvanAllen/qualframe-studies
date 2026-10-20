@@ -1,0 +1,36 @@
+project_id: study-a-find-whole-codebook
+title: "Study A - find passages, whole codebook (QualFrame default instructions)"
+created_at_utc: '2026-10-11T22:54:36.678412+00:00'
+data_classification: deidentified
+source_manifest: studies/study-a-find-whole-codebook/source_import_manifest.jsonl
+mode: transcript_first
+paths:
+  raw_transcripts: studies/study-a-find-whole-codebook/data/raw/transcripts
+  raw_workbooks: studies/study-a-find-whole-codebook/data/raw/workbooks
+  reference: studies/study-a-find-whole-codebook/data/reference
+  working: studies/study-a-find-whole-codebook/data/working
+  artifacts: studies/study-a-find-whole-codebook/artifacts
+  review_queue: studies/study-a-find-whole-codebook/review_queue
+  exports: studies/study-a-find-whole-codebook/exports
+  logs: studies/study-a-find-whole-codebook/logs
+governance:
+  enforce_review_gates: false
+  require_release_for_export: false
+structured_output:
+  enforce: false
+  spec: config/schemas/cfir_stage_outputs_v1.yaml
+framework: config/frameworks/directed_v3.yaml
+pipeline: config/pipelines/directed_content_analysis_contracts_v1.yaml
+method: studies/study-a-find-whole-codebook/config/method_v1.yaml
+review_policy: config/review_policies/complete_review_v1.yaml
+analysis_plan: config/analysis_plans/example_group_comparison_v1.yaml
+provider:
+  name: openai
+  model: gpt-6.1-sol
+  api_key_env: OPENAI_API_KEY
+  max_tokens: 32000
+  temperature: null
+  api_mode: responses
+  reasoning_effort: low
+  anthropic_effort: null
+codebook: studies/study-a-find-whole-codebook/config/codebook_v1.yaml

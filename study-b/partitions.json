@@ -1,0 +1,939 @@
+{
+  "schema_version": "study_b_import_partitions_v1",
+  "codebook_file": "bct_codebook_grouped.xlsx",
+  "codable_technique_count": 94,
+  "structural_group_count": 16,
+  "group_ids_are_coding_targets": false,
+  "five_part_method": "Exact whole-group balancing: four parts of 19 techniques and one of 18, with deterministic group-number order tie-breaking.",
+  "import_warning": "Planning manifest only, not a QualFrame config. Parent rows default active on Excel import. Active status and QualBench leaf-only comparison denominator require explicit setup handling.",
+  "five_parts": [
+    {
+      "id": "part_1",
+      "group_ids": [
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "groups": [
+        {
+          "id": "G1",
+          "label": "Goals and planning",
+          "code_ids": [
+            "1.1",
+            "1.2",
+            "1.3",
+            "1.4",
+            "1.5",
+            "1.6",
+            "1.7",
+            "1.8",
+            "1.9"
+          ],
+          "code_count": 9
+        },
+        {
+          "id": "G2",
+          "label": "Feedback and monitoring",
+          "code_ids": [
+            "2.1",
+            "2.2",
+            "2.3",
+            "2.4",
+            "2.5",
+            "2.6",
+            "2.7"
+          ],
+          "code_count": 7
+        },
+        {
+          "id": "G3",
+          "label": "Social support",
+          "code_ids": [
+            "3.1",
+            "3.2",
+            "3.3"
+          ],
+          "code_count": 3
+        }
+      ],
+      "code_ids": [
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6",
+        "1.7",
+        "1.8",
+        "1.9",
+        "2.1",
+        "2.2",
+        "2.3",
+        "2.4",
+        "2.5",
+        "2.6",
+        "2.7",
+        "3.1",
+        "3.2",
+        "3.3"
+      ],
+      "code_count": 19,
+      "technique_label_definition_characters": 5488,
+      "group_label_definition_characters": 623,
+      "technique_codebook_tokens": 1372.0,
+      "with_group_text_codebook_tokens": 1527.75
+    },
+    {
+      "id": "part_2",
+      "group_ids": [
+        "G4",
+        "G5",
+        "G6",
+        "G11"
+      ],
+      "groups": [
+        {
+          "id": "G4",
+          "label": "Shaping knowledge",
+          "code_ids": [
+            "4.1",
+            "4.2",
+            "4.3",
+            "4.4",
+            "4.5"
+          ],
+          "code_count": 5
+        },
+        {
+          "id": "G5",
+          "label": "Natural consequences",
+          "code_ids": [
+            "5.1",
+            "5.2",
+            "5.3",
+            "5.4",
+            "5.5",
+            "5.6"
+          ],
+          "code_count": 6
+        },
+        {
+          "id": "G6",
+          "label": "Comparison of behaviour",
+          "code_ids": [
+            "6.1",
+            "6.2",
+            "6.3"
+          ],
+          "code_count": 3
+        },
+        {
+          "id": "G11",
+          "label": "Regulation",
+          "code_ids": [
+            "11.1",
+            "11.2",
+            "11.3",
+            "11.4"
+          ],
+          "code_count": 4
+        }
+      ],
+      "code_ids": [
+        "4.1",
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5",
+        "5.1",
+        "5.2",
+        "5.3",
+        "5.4",
+        "5.5",
+        "5.6",
+        "6.1",
+        "6.2",
+        "6.3",
+        "11.1",
+        "11.2",
+        "11.3",
+        "11.4"
+      ],
+      "code_count": 18,
+      "technique_label_definition_characters": 4912,
+      "group_label_definition_characters": 825,
+      "technique_codebook_tokens": 1228.0,
+      "with_group_text_codebook_tokens": 1434.25
+    },
+    {
+      "id": "part_3",
+      "group_ids": [
+        "G7",
+        "G8",
+        "G15"
+      ],
+      "groups": [
+        {
+          "id": "G7",
+          "label": "Associations",
+          "code_ids": [
+            "7.1",
+            "7.2",
+            "7.3",
+            "7.4",
+            "7.5",
+            "7.6",
+            "7.7",
+            "7.8"
+          ],
+          "code_count": 8
+        },
+        {
+          "id": "G8",
+          "label": "Repetition and substitution",
+          "code_ids": [
+            "8.1",
+            "8.2",
+            "8.3",
+            "8.4",
+            "8.5",
+            "8.6",
+            "8.7"
+          ],
+          "code_count": 7
+        },
+        {
+          "id": "G15",
+          "label": "Self-belief",
+          "code_ids": [
+            "15.1",
+            "15.2",
+            "15.3",
+            "15.4"
+          ],
+          "code_count": 4
+        }
+      ],
+      "code_ids": [
+        "7.1",
+        "7.2",
+        "7.3",
+        "7.4",
+        "7.5",
+        "7.6",
+        "7.7",
+        "7.8",
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4",
+        "8.5",
+        "8.6",
+        "8.7",
+        "15.1",
+        "15.2",
+        "15.3",
+        "15.4"
+      ],
+      "code_count": 19,
+      "technique_label_definition_characters": 4562,
+      "group_label_definition_characters": 614,
+      "technique_codebook_tokens": 1140.5,
+      "with_group_text_codebook_tokens": 1294.0
+    },
+    {
+      "id": "part_4",
+      "group_ids": [
+        "G9",
+        "G10",
+        "G13"
+      ],
+      "groups": [
+        {
+          "id": "G9",
+          "label": "Comparison of outcomes",
+          "code_ids": [
+            "9.1",
+            "9.2",
+            "9.3"
+          ],
+          "code_count": 3
+        },
+        {
+          "id": "G10",
+          "label": "Reward and threat",
+          "code_ids": [
+            "10.1",
+            "10.2",
+            "10.3",
+            "10.4",
+            "10.5",
+            "10.6",
+            "10.7",
+            "10.8",
+            "10.9",
+            "10.10",
+            "10.11"
+          ],
+          "code_count": 11
+        },
+        {
+          "id": "G13",
+          "label": "Identity",
+          "code_ids": [
+            "13.1",
+            "13.2",
+            "13.3",
+            "13.4",
+            "13.5"
+          ],
+          "code_count": 5
+        }
+      ],
+      "code_ids": [
+        "9.1",
+        "9.2",
+        "9.3",
+        "10.1",
+        "10.2",
+        "10.3",
+        "10.4",
+        "10.5",
+        "10.6",
+        "10.7",
+        "10.8",
+        "10.9",
+        "10.10",
+        "10.11",
+        "13.1",
+        "13.2",
+        "13.3",
+        "13.4",
+        "13.5"
+      ],
+      "code_count": 19,
+      "technique_label_definition_characters": 4001,
+      "group_label_definition_characters": 609,
+      "technique_codebook_tokens": 1000.25,
+      "with_group_text_codebook_tokens": 1152.5
+    },
+    {
+      "id": "part_5",
+      "group_ids": [
+        "G12",
+        "G14",
+        "G16"
+      ],
+      "groups": [
+        {
+          "id": "G12",
+          "label": "Antecedents",
+          "code_ids": [
+            "12.1",
+            "12.2",
+            "12.3",
+            "12.4",
+            "12.5",
+            "12.6"
+          ],
+          "code_count": 6
+        },
+        {
+          "id": "G14",
+          "label": "Scheduled consequences",
+          "code_ids": [
+            "14.1",
+            "14.2",
+            "14.3",
+            "14.4",
+            "14.5",
+            "14.6",
+            "14.7",
+            "14.8",
+            "14.9",
+            "14.10"
+          ],
+          "code_count": 10
+        },
+        {
+          "id": "G16",
+          "label": "Covert learning",
+          "code_ids": [
+            "16.1",
+            "16.2",
+            "16.3"
+          ],
+          "code_count": 3
+        }
+      ],
+      "code_ids": [
+        "12.1",
+        "12.2",
+        "12.3",
+        "12.4",
+        "12.5",
+        "12.6",
+        "14.1",
+        "14.2",
+        "14.3",
+        "14.4",
+        "14.5",
+        "14.6",
+        "14.7",
+        "14.8",
+        "14.9",
+        "14.10",
+        "16.1",
+        "16.2",
+        "16.3"
+      ],
+      "code_count": 19,
+      "technique_label_definition_characters": 4884,
+      "group_label_definition_characters": 612,
+      "technique_codebook_tokens": 1221.0,
+      "with_group_text_codebook_tokens": 1374.0
+    }
+  ],
+  "sixteen_groups": [
+    {
+      "id": "G1",
+      "group_ids": [
+        "G1"
+      ],
+      "groups": [
+        {
+          "id": "G1",
+          "label": "Goals and planning",
+          "code_ids": [
+            "1.1",
+            "1.2",
+            "1.3",
+            "1.4",
+            "1.5",
+            "1.6",
+            "1.7",
+            "1.8",
+            "1.9"
+          ],
+          "code_count": 9
+        }
+      ],
+      "code_ids": [
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6",
+        "1.7",
+        "1.8",
+        "1.9"
+      ],
+      "code_count": 9,
+      "technique_label_definition_characters": 2102,
+      "group_label_definition_characters": 207,
+      "technique_codebook_tokens": 525.5,
+      "with_group_text_codebook_tokens": 577.25
+    },
+    {
+      "id": "G2",
+      "group_ids": [
+        "G2"
+      ],
+      "groups": [
+        {
+          "id": "G2",
+          "label": "Feedback and monitoring",
+          "code_ids": [
+            "2.1",
+            "2.2",
+            "2.3",
+            "2.4",
+            "2.5",
+            "2.6",
+            "2.7"
+          ],
+          "code_count": 7
+        }
+      ],
+      "code_ids": [
+        "2.1",
+        "2.2",
+        "2.3",
+        "2.4",
+        "2.5",
+        "2.6",
+        "2.7"
+      ],
+      "code_count": 7,
+      "technique_label_definition_characters": 1914,
+      "group_label_definition_characters": 217,
+      "technique_codebook_tokens": 478.5,
+      "with_group_text_codebook_tokens": 532.75
+    },
+    {
+      "id": "G3",
+      "group_ids": [
+        "G3"
+      ],
+      "groups": [
+        {
+          "id": "G3",
+          "label": "Social support",
+          "code_ids": [
+            "3.1",
+            "3.2",
+            "3.3"
+          ],
+          "code_count": 3
+        }
+      ],
+      "code_ids": [
+        "3.1",
+        "3.2",
+        "3.3"
+      ],
+      "code_count": 3,
+      "technique_label_definition_characters": 1472,
+      "group_label_definition_characters": 199,
+      "technique_codebook_tokens": 368.0,
+      "with_group_text_codebook_tokens": 417.75
+    },
+    {
+      "id": "G4",
+      "group_ids": [
+        "G4"
+      ],
+      "groups": [
+        {
+          "id": "G4",
+          "label": "Shaping knowledge",
+          "code_ids": [
+            "4.1",
+            "4.2",
+            "4.3",
+            "4.4",
+            "4.5"
+          ],
+          "code_count": 5
+        }
+      ],
+      "code_ids": [
+        "4.1",
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "code_count": 5,
+      "technique_label_definition_characters": 1619,
+      "group_label_definition_characters": 205,
+      "technique_codebook_tokens": 404.75,
+      "with_group_text_codebook_tokens": 456.0
+    },
+    {
+      "id": "G5",
+      "group_ids": [
+        "G5"
+      ],
+      "groups": [
+        {
+          "id": "G5",
+          "label": "Natural consequences",
+          "code_ids": [
+            "5.1",
+            "5.2",
+            "5.3",
+            "5.4",
+            "5.5",
+            "5.6"
+          ],
+          "code_count": 6
+        }
+      ],
+      "code_ids": [
+        "5.1",
+        "5.2",
+        "5.3",
+        "5.4",
+        "5.5",
+        "5.6"
+      ],
+      "code_count": 6,
+      "technique_label_definition_characters": 1601,
+      "group_label_definition_characters": 211,
+      "technique_codebook_tokens": 400.25,
+      "with_group_text_codebook_tokens": 453.0
+    },
+    {
+      "id": "G6",
+      "group_ids": [
+        "G6"
+      ],
+      "groups": [
+        {
+          "id": "G6",
+          "label": "Comparison of behaviour",
+          "code_ids": [
+            "6.1",
+            "6.2",
+            "6.3"
+          ],
+          "code_count": 3
+        }
+      ],
+      "code_ids": [
+        "6.1",
+        "6.2",
+        "6.3"
+      ],
+      "code_count": 3,
+      "technique_label_definition_characters": 724,
+      "group_label_definition_characters": 217,
+      "technique_codebook_tokens": 181.0,
+      "with_group_text_codebook_tokens": 235.25
+    },
+    {
+      "id": "G7",
+      "group_ids": [
+        "G7"
+      ],
+      "groups": [
+        {
+          "id": "G7",
+          "label": "Associations",
+          "code_ids": [
+            "7.1",
+            "7.2",
+            "7.3",
+            "7.4",
+            "7.5",
+            "7.6",
+            "7.7",
+            "7.8"
+          ],
+          "code_count": 8
+        }
+      ],
+      "code_ids": [
+        "7.1",
+        "7.2",
+        "7.3",
+        "7.4",
+        "7.5",
+        "7.6",
+        "7.7",
+        "7.8"
+      ],
+      "code_count": 8,
+      "technique_label_definition_characters": 2193,
+      "group_label_definition_characters": 195,
+      "technique_codebook_tokens": 548.25,
+      "with_group_text_codebook_tokens": 597.0
+    },
+    {
+      "id": "G8",
+      "group_ids": [
+        "G8"
+      ],
+      "groups": [
+        {
+          "id": "G8",
+          "label": "Repetition and substitution",
+          "code_ids": [
+            "8.1",
+            "8.2",
+            "8.3",
+            "8.4",
+            "8.5",
+            "8.6",
+            "8.7"
+          ],
+          "code_count": 7
+        }
+      ],
+      "code_ids": [
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4",
+        "8.5",
+        "8.6",
+        "8.7"
+      ],
+      "code_count": 7,
+      "technique_label_definition_characters": 1489,
+      "group_label_definition_characters": 225,
+      "technique_codebook_tokens": 372.25,
+      "with_group_text_codebook_tokens": 428.5
+    },
+    {
+      "id": "G9",
+      "group_ids": [
+        "G9"
+      ],
+      "groups": [
+        {
+          "id": "G9",
+          "label": "Comparison of outcomes",
+          "code_ids": [
+            "9.1",
+            "9.2",
+            "9.3"
+          ],
+          "code_count": 3
+        }
+      ],
+      "code_ids": [
+        "9.1",
+        "9.2",
+        "9.3"
+      ],
+      "code_count": 3,
+      "technique_label_definition_characters": 726,
+      "group_label_definition_characters": 215,
+      "technique_codebook_tokens": 181.5,
+      "with_group_text_codebook_tokens": 235.25
+    },
+    {
+      "id": "G10",
+      "group_ids": [
+        "G10"
+      ],
+      "groups": [
+        {
+          "id": "G10",
+          "label": "Reward and threat",
+          "code_ids": [
+            "10.1",
+            "10.2",
+            "10.3",
+            "10.4",
+            "10.5",
+            "10.6",
+            "10.7",
+            "10.8",
+            "10.9",
+            "10.10",
+            "10.11"
+          ],
+          "code_count": 11
+        }
+      ],
+      "code_ids": [
+        "10.1",
+        "10.2",
+        "10.3",
+        "10.4",
+        "10.5",
+        "10.6",
+        "10.7",
+        "10.8",
+        "10.9",
+        "10.10",
+        "10.11"
+      ],
+      "code_count": 11,
+      "technique_label_definition_characters": 2147,
+      "group_label_definition_characters": 206,
+      "technique_codebook_tokens": 536.75,
+      "with_group_text_codebook_tokens": 588.25
+    },
+    {
+      "id": "G11",
+      "group_ids": [
+        "G11"
+      ],
+      "groups": [
+        {
+          "id": "G11",
+          "label": "Regulation",
+          "code_ids": [
+            "11.1",
+            "11.2",
+            "11.3",
+            "11.4"
+          ],
+          "code_count": 4
+        }
+      ],
+      "code_ids": [
+        "11.1",
+        "11.2",
+        "11.3",
+        "11.4"
+      ],
+      "code_count": 4,
+      "technique_label_definition_characters": 968,
+      "group_label_definition_characters": 192,
+      "technique_codebook_tokens": 242.0,
+      "with_group_text_codebook_tokens": 290.0
+    },
+    {
+      "id": "G12",
+      "group_ids": [
+        "G12"
+      ],
+      "groups": [
+        {
+          "id": "G12",
+          "label": "Antecedents",
+          "code_ids": [
+            "12.1",
+            "12.2",
+            "12.3",
+            "12.4",
+            "12.5",
+            "12.6"
+          ],
+          "code_count": 6
+        }
+      ],
+      "code_ids": [
+        "12.1",
+        "12.2",
+        "12.3",
+        "12.4",
+        "12.5",
+        "12.6"
+      ],
+      "code_count": 6,
+      "technique_label_definition_characters": 1551,
+      "group_label_definition_characters": 194,
+      "technique_codebook_tokens": 387.75,
+      "with_group_text_codebook_tokens": 436.25
+    },
+    {
+      "id": "G13",
+      "group_ids": [
+        "G13"
+      ],
+      "groups": [
+        {
+          "id": "G13",
+          "label": "Identity",
+          "code_ids": [
+            "13.1",
+            "13.2",
+            "13.3",
+            "13.4",
+            "13.5"
+          ],
+          "code_count": 5
+        }
+      ],
+      "code_ids": [
+        "13.1",
+        "13.2",
+        "13.3",
+        "13.4",
+        "13.5"
+      ],
+      "code_count": 5,
+      "technique_label_definition_characters": 1128,
+      "group_label_definition_characters": 188,
+      "technique_codebook_tokens": 282.0,
+      "with_group_text_codebook_tokens": 329.0
+    },
+    {
+      "id": "G14",
+      "group_ids": [
+        "G14"
+      ],
+      "groups": [
+        {
+          "id": "G14",
+          "label": "Scheduled consequences",
+          "code_ids": [
+            "14.1",
+            "14.2",
+            "14.3",
+            "14.4",
+            "14.5",
+            "14.6",
+            "14.7",
+            "14.8",
+            "14.9",
+            "14.10"
+          ],
+          "code_count": 10
+        }
+      ],
+      "code_ids": [
+        "14.1",
+        "14.2",
+        "14.3",
+        "14.4",
+        "14.5",
+        "14.6",
+        "14.7",
+        "14.8",
+        "14.9",
+        "14.10"
+      ],
+      "code_count": 10,
+      "technique_label_definition_characters": 2426,
+      "group_label_definition_characters": 216,
+      "technique_codebook_tokens": 606.5,
+      "with_group_text_codebook_tokens": 660.5
+    },
+    {
+      "id": "G15",
+      "group_ids": [
+        "G15"
+      ],
+      "groups": [
+        {
+          "id": "G15",
+          "label": "Self-belief",
+          "code_ids": [
+            "15.1",
+            "15.2",
+            "15.3",
+            "15.4"
+          ],
+          "code_count": 4
+        }
+      ],
+      "code_ids": [
+        "15.1",
+        "15.2",
+        "15.3",
+        "15.4"
+      ],
+      "code_count": 4,
+      "technique_label_definition_characters": 880,
+      "group_label_definition_characters": 194,
+      "technique_codebook_tokens": 220.0,
+      "with_group_text_codebook_tokens": 268.5
+    },
+    {
+      "id": "G16",
+      "group_ids": [
+        "G16"
+      ],
+      "groups": [
+        {
+          "id": "G16",
+          "label": "Covert learning",
+          "code_ids": [
+            "16.1",
+            "16.2",
+            "16.3"
+          ],
+          "code_count": 3
+        }
+      ],
+      "code_ids": [
+        "16.1",
+        "16.2",
+        "16.3"
+      ],
+      "code_count": 3,
+      "technique_label_definition_characters": 907,
+      "group_label_definition_characters": 202,
+      "technique_codebook_tokens": 226.75,
+      "with_group_text_codebook_tokens": 277.25
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Fetched or private inputs are never committed
+study-b/data/
+**/transcripts/
+**/references/
+**/exports/
+**/artifacts/
+*.env
+.env
+__pycache__/

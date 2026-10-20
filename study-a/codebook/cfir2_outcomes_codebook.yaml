@@ -1,0 +1,1016 @@
+id: cfir-2-outcomes-addendum
+version: '1'
+name: CFIR 2.0 with the Outcomes Addendum
+codes:
+- id: cfir-943b0da2ccef1d6f514c
+  label: 'Innovation: A. Innovation Source'
+  definition: The degree to which the group that developed and/or visibly sponsored
+    use of the innovation is reputable, credible, and/or trustable.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-1f45f8805675628aaf15
+  label: 'Innovation: B. Innovation Evidence-Base'
+  definition: The degree to which the innovation has robust evidence supporting its
+    effectiveness.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-4e67cfe7e1c7b9775656
+  label: 'Innovation: C. Innovation Relative Advantage'
+  definition: The degree to which the innovation is better than other available innovations
+    or current practice.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-5765b9757cb6b7922d38
+  label: 'Innovation: D. Innovation Adaptability'
+  definition: The degree to which the innovation can be modified, tailored, or refined
+    to fit local context or needs.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-db100c64625b4c5d1ae9
+  label: 'Innovation: E. Innovation Trialability'
+  definition: The degree to which the innovation can be tested or piloted on a small
+    scale and undone.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-1cd084abf2419b631adc
+  label: 'Innovation: F. Innovation Complexity'
+  definition: The degree to which the innovation is complicated, which may be reflected
+    by its scope and/or the nature and number of connections and steps.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-971d4ec0fc620a903d82
+  label: 'Innovation: G. Innovation Design'
+  definition: The degree to which the innovation is well designed and packaged, including
+    how it is assembled, bundled, and presented.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-93f1df9edb09ef69a075
+  label: 'Innovation: H. Innovation Cost'
+  definition: The degree to which the innovation purchase and operating costs are
+    affordable.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-91668d4505f8bd38cde9
+  label: 'Outer Setting: A. Critical Incidents'
+  definition: The degree to which to large-scale and/or unanticipated events disrupt
+    implementation and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-e0c6b6791fc0fd96cdd7
+  label: 'Outer Setting: B. Local Attitudes'
+  definition: The degree to which sociocultural values (e.g., shared responsibility
+    in helping recipients) and beliefs (e.g., convictions about the worthiness of
+    recipients) encourage the Outer Setting to support implementation and/or delivery
+    of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-bbaf14c498dd8187bc37
+  label: 'Outer Setting: C. Local Conditions'
+  definition: The degree to which economic, environmental, political, and/or technological
+    conditions enable the Outer Setting to support implementation and/or delivery
+    of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-3457226b0498b3f4c86a
+  label: 'Outer Setting: D. Partnerships & Connections'
+  definition: The degree to which the Inner Setting is networked with external entities,
+    including referral networks, academic affiliations, and professional organization
+    networks.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-0fc9d980b4b5d54523da
+  label: 'Outer Setting: E. Policies & Laws'
+  definition: The degree to which legislation, regulations, professional group guidelines
+    and recommendations, or accreditation standards support implementation and/or
+    delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-de8489aa1ed90c551e44
+  label: 'Outer Setting: F. Financing'
+  definition: The degree to which funding from external entities (e.g., grants, reimbursement)
+    is available to implement and/or deliver the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-1b3858e1e56d81401247
+  label: 'Outer Setting: G. External Pressure'
+  definition: 'The degree to which external pressures drive implementation and/or
+    delivery of the innovation. Note: Use this construct to capture themes related
+    to External Pressures that are not included in the subconstructs below.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-142fdd662fa9993217da
+  label: 'Outer Setting: G. External Pressure / 1. Societal Pressure'
+  parent_id: cfir-1b3858e1e56d81401247
+  definition: The degree to which mass media campaigns, advocacy groups, or social
+    movements or protests drive implementation and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-7e15d770dbb8e41577e6
+  label: 'Outer Setting: G. External Pressure / 2. Market Pressure'
+  parent_id: cfir-1b3858e1e56d81401247
+  definition: The degree to which competing with and/or imitating peer entities drives
+    implementation and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-ab2ef5dbd01f16607d40
+  label: 'Outer Setting: G. External Pressure / 3. Performance-Measurement Pressure'
+  parent_id: cfir-1b3858e1e56d81401247
+  definition: The degree to which quality or benchmarking metrics or established service
+    goals drive implementation and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-6a57c20e91d8f2db002a
+  label: 'Inner Setting: A. Structural Characteristics'
+  definition: 'The degree to which infrastructure components support functional performance
+    of the Inner Setting. Note: Use this construct to capture themes related to Structural
+    Characteristics that are not included in the subconstructs below.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-0d9a342a3598a0cdc2e5
+  label: 'Inner Setting: A. Structural Characteristics / 1. Physical Infrastructure'
+  parent_id: cfir-6a57c20e91d8f2db002a
+  definition: The degree to which layout and configuration of space and other tangible
+    material features support functional performance of the Inner Setting.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-e5d3a41fa609dd4227c4
+  label: 'Inner Setting: A. Structural Characteristics / 2. Information Technology
+    Infrastructure'
+  parent_id: cfir-6a57c20e91d8f2db002a
+  definition: The degree to which technological systems for tele-communication, electronic
+    documentation, and data storage, management, reporting, and analysis support functional
+    performance of the Inner Setting.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-e2c97ca38abd0d1f6ac1
+  label: 'Inner Setting: A. Structural Characteristics / 3. Work Infrastructure'
+  parent_id: cfir-6a57c20e91d8f2db002a
+  definition: The degree to which organization of tasks and responsibilities within
+    and between individuals and teams, and general staffing levels, support functional
+    performance of the Inner Setting.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-14d0382c325193eca32b
+  label: 'Inner Setting: B. Relational Connections'
+  definition: The degree to which there are high quality formal and informal relationships,
+    networks, and teams within and across Inner Setting boundaries (e.g., structural,
+    professional).
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-0cb4d9a82dfe849cc305
+  label: 'Inner Setting: C. Communications'
+  definition: The degree to which there are high quality formal and informal information
+    sharing practices within and across Inner Setting boundaries (e.g., structural,
+    professional).
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-288f52145e8893025181
+  label: 'Inner Setting: D. Culture'
+  definition: 'The degree to which there are shared values, beliefs, and norms across
+    the Inner Setting. Note: Use this construct to capture themes related to Culture
+    that are not included in the subconstructs below.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-047e8d77a0947bf61567
+  label: 'Inner Setting: D. Culture / 1. Human Equality-Centeredness'
+  parent_id: cfir-288f52145e8893025181
+  definition: The degree to which there are shared values, beliefs, and norms about
+    the inherent equal worth and value of all human beings.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-a88261ca033d2a1d6132
+  label: 'Inner Setting: D. Culture / 2. Recipient-Centeredness'
+  parent_id: cfir-288f52145e8893025181
+  definition: "The degree to which there are shared values, beliefs,\_and\_norms around\
+    \ caring, supporting, and addressing the needs and welfare of recipients."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-e97c80d16153cd2b7fd4
+  label: 'Inner Setting: D. Culture / 3. Deliverer-Centeredness'
+  parent_id: cfir-288f52145e8893025181
+  definition: "The degree to which there are shared values, beliefs,\_and\_norms around\
+    \ caring, supporting, and addressing the needs and welfare of deliverers."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-1030f188926d49330c60
+  label: 'Inner Setting: D. Culture / 4. Learning-Centeredness'
+  parent_id: cfir-288f52145e8893025181
+  definition: "The degree to which here are shared values, beliefs,\_and\_norms around\
+    \ psychological safety, continual improvement, and using data to inform practice."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-8a23d774e4625f8e27e6
+  label: 'Inner Setting: E. Tension for Change'
+  definition: The degree to which the current situation is intolerable and needs to
+    change.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-3149f4349447345611de
+  label: 'Inner Setting: F. Compatibility'
+  definition: The degree to which the innovation fits with workflows, systems, and
+    processes.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-4dc8da41563c32c0c1e0
+  label: 'Inner Setting: G. Relative Priority'
+  definition: The degree to which implementing and delivering the innovation is important
+    compared to other initiatives.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-4693e94317fcb7b62fd9
+  label: 'Inner Setting: H. Incentive Systems'
+  definition: The degree to which tangible and/or intangible incentives and rewards
+    and/or disincentives and punishments support implementation and delivery of the
+    innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-b42f28430e9a985c1231
+  label: 'Inner Setting: I. Mission Alignment'
+  definition: The degree to which implementing and delivering the innovation is in
+    line with the overarching commitment, purpose, or goals in the Inner Setting.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-a74b2bfc5263b0401287
+  label: 'Inner Setting: J. Available Resources'
+  definition: 'The degree to which resources are available to implement and deliver
+    the innovation. Note: Use this construct to capture themes related to Available
+    Resources that are not included in the subconstructs below.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-2a1030dfb45db354ec6f
+  label: 'Inner Setting: J. Available Resources / 1. Funding'
+  parent_id: cfir-a74b2bfc5263b0401287
+  definition: The degree to which funding is available to implement and deliver the
+    innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-50c356c28420c7a91140
+  label: 'Inner Setting: J. Available Resources / 2. Space'
+  parent_id: cfir-a74b2bfc5263b0401287
+  definition: The degree to which physical space is available to implement and deliver
+    the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-df466f0f95851a3361b4
+  label: 'Inner Setting: J. Available Resources / 3. Materials & Equipment'
+  parent_id: cfir-a74b2bfc5263b0401287
+  definition: The degree to which supplies are available to implement and deliver
+    the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-dcb05b7a7579c458b5ec
+  label: 'Inner Setting: K. Access to Knowledge & Information'
+  definition: The degree to which guidance and/or training is accessible to implement
+    and deliver the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-95d84d58f79950976ba8
+  label: 'Individuals: A. High-level Leaders'
+  definition: Individuals with a high level of authority, including key decision-makers,
+    executive leaders, or directors.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-f8ae30cbb0afd9d2e0c2
+  label: 'Individuals: A. High-level Leaders / 1. Need'
+  parent_id: cfir-95d84d58f79950976ba8
+  definition: The degree to which high-level leader(s) have deficits related to survival,
+    well-being, or personal fulfillment, which will be addressed by implementation
+    and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-aac3554e3405130ac3ce
+  label: 'Individuals: A. High-level Leaders / 2. Capability'
+  parent_id: cfir-95d84d58f79950976ba8
+  definition: The degree to which high-level leader(s) have interpersonal competence,
+    knowledge, and skills to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-19a1296d6209e527c406
+  label: 'Individuals: A. High-level Leaders / 3. Opportunity'
+  parent_id: cfir-95d84d58f79950976ba8
+  definition: The degree to which high-level leader(s) have availability, scope, and
+    power to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-7e034911316da1ca741e
+  label: 'Individuals: A. High-level Leaders / 4. Motivation'
+  parent_id: cfir-95d84d58f79950976ba8
+  definition: The degree to which high-level leader(s) are committed to fulfilling
+    Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-de3f2b9647740575cc26
+  label: 'Individuals: B. Mid-level Leaders'
+  definition: Individuals with a moderate level of authority, including leaders supervised
+    by a high-level leader and who supervise others.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-d8ed35480f552ba5437d
+  label: 'Individuals: B. Mid-level Leaders / 1. Need'
+  parent_id: cfir-de3f2b9647740575cc26
+  definition: The degree to which mid-level leader(s) have deficits related to survival,
+    well-being, or personal fulfillment, which will be addressed by implementation
+    and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-a720b04db424199fafd9
+  label: 'Individuals: B. Mid-level Leaders / 2. Capability'
+  parent_id: cfir-de3f2b9647740575cc26
+  definition: The degree to which mid-level leader(s) have interpersonal competence,
+    knowledge, and skills to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-0faf06c8ecfe36f37eb8
+  label: 'Individuals: B. Mid-level Leaders / 3. Opportunity'
+  parent_id: cfir-de3f2b9647740575cc26
+  definition: The degree to which mid-level leader(s) have availability, scope, and
+    power to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-32bf35084af2c6a419a1
+  label: 'Individuals: B. Mid-level Leaders / 4. Motivation'
+  parent_id: cfir-de3f2b9647740575cc26
+  definition: The degree to which mid-level leader(s) are committed to fulfilling
+    Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-36007f15e81faaeaa743
+  label: 'Individuals: C. Opinion Leaders'
+  definition: Individuals with informal influence on the attitudes and behaviors of
+    others.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-d2e20a4304cbdeb08f95
+  label: 'Individuals: C. Opinion Leaders / 1. Need'
+  parent_id: cfir-36007f15e81faaeaa743
+  definition: The degree to which opinion leaders have deficits related to survival,
+    well-being, or personal fulfillment, which will be addressed by implementation
+    and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-554254f867af7cdc7820
+  label: 'Individuals: C. Opinion Leaders / 2. Capability'
+  parent_id: cfir-36007f15e81faaeaa743
+  definition: The degree to which opinion leaders have interpersonal competence, knowledge,
+    and skills to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-bc603fbc3798f44f1f5d
+  label: 'Individuals: C. Opinion Leaders / 3. Opportunity'
+  parent_id: cfir-36007f15e81faaeaa743
+  definition: The degree to which opinion leaders have availability, scope, and power
+    to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-7231dbd234fda6eff798
+  label: 'Individuals: C. Opinion Leaders / 4. Motivation'
+  parent_id: cfir-36007f15e81faaeaa743
+  definition: The degree to which opinion leaders are committed to fulfilling Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-48f9bf47e14259820342
+  label: 'Individuals: D. Implementation Facilitators'
+  definition: Individuals with subject matter expertise who assist, coach, or support
+    implementation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-227f4b85e6c6c678776f
+  label: 'Individuals: D. Implementation Facilitators / 1. Need'
+  parent_id: cfir-48f9bf47e14259820342
+  definition: The degree to which implementation facilitators have deficits related
+    to survival, well-being, or personal fulfillment, which will be addressed by implementation
+    and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-baa40862df75b7f5a62c
+  label: 'Individuals: D. Implementation Facilitators / 2. Capability'
+  parent_id: cfir-48f9bf47e14259820342
+  definition: The degree to which implementation facilitators have interpersonal competence,
+    knowledge, and skills to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-b5aabb28a953448c3582
+  label: 'Individuals: D. Implementation Facilitators / 3. Opportunity'
+  parent_id: cfir-48f9bf47e14259820342
+  definition: The degree to which implementation facilitators have availability, scope,
+    and power to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-6e28653ae5a01f51fe83
+  label: 'Individuals: D. Implementation Facilitators / 4. Motivation'
+  parent_id: cfir-48f9bf47e14259820342
+  definition: The degree to which implementation facilitators are committed to fulfilling
+    Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-b7c2dd18ac8687cac45d
+  label: 'Individuals: E. Implementation Leads'
+  definition: Individuals who lead efforts to implement the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-50179dd5837da39a90a6
+  label: 'Individuals: E. Implementation Leads / 1. Need'
+  parent_id: cfir-b7c2dd18ac8687cac45d
+  definition: The degree to which implementation leads have deficits related to survival,
+    well-being, or personal fulfillment, which will be addressed by implementation
+    and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-7810f2746521205b952c
+  label: 'Individuals: E. Implementation Leads / 2. Capability'
+  parent_id: cfir-b7c2dd18ac8687cac45d
+  definition: The degree to which implementation leads have interpersonal competence,
+    knowledge, and skills to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-718e13bb6be578c77e89
+  label: 'Individuals: E. Implementation Leads / 3. Opportunity'
+  parent_id: cfir-b7c2dd18ac8687cac45d
+  definition: The degree to which implementation leads have availability, scope, and
+    power to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-18e0f4a881425b5e6be8
+  label: 'Individuals: E. Implementation Leads / 4. Motivation'
+  parent_id: cfir-b7c2dd18ac8687cac45d
+  definition: The degree to which implementation leads are committed to fulfilling
+    Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-e8560f32d321f6bdfe75
+  label: 'Individuals: F. Implementation Team Members'
+  definition: Individuals who collaborate with and support the Implementation Leads
+    to implement the innovation, ideally including Innovation Deliverers and Recipients.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-0131ac57faa0e0583463
+  label: 'Individuals: F. Implementation Team Members / 1. Need'
+  parent_id: cfir-e8560f32d321f6bdfe75
+  definition: The degree to which implementation team members have deficits related
+    to survival, well-being, or personal fulfillment, which will be addressed by implementation
+    and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-e9b4b051ce8b496ab0fb
+  label: 'Individuals: F. Implementation Team Members / 2. Capability'
+  parent_id: cfir-e8560f32d321f6bdfe75
+  definition: The degree to which implementation team members have interpersonal competence,
+    knowledge, and skills to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-e1c07b478089261ea04d
+  label: 'Individuals: F. Implementation Team Members / 3. Opportunity'
+  parent_id: cfir-e8560f32d321f6bdfe75
+  definition: The degree to which implementation team members have availability, scope,
+    and power to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-c553ab67cd5cd8d77a95
+  label: 'Individuals: F. Implementation Team Members / 4. Motivation'
+  parent_id: cfir-e8560f32d321f6bdfe75
+  definition: The degree to which implementation team members are committed to fulfilling
+    Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-8018351ba6f6a4d33d65
+  label: 'Individuals: G. Other Implementation Support'
+  definition: Individuals who support the Implementation Leads and/or Implementation
+    Team Members to implement the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-6555fb45dd151b2efac3
+  label: 'Individuals: G. Other Implementation Support / 1. Need'
+  parent_id: cfir-8018351ba6f6a4d33d65
+  definition: The degree to which other implementation support have deficits related
+    to survival, well-being, or personal fulfillment, which will be addressed by implementation
+    and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-363f80b87bd23a486225
+  label: 'Individuals: G. Other Implementation Support / 2. Capability'
+  parent_id: cfir-8018351ba6f6a4d33d65
+  definition: The degree to which other implementation support have interpersonal
+    competence, knowledge, and skills to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-62baa48e141a5a11e9b4
+  label: 'Individuals: G. Other Implementation Support / 3. Opportunity'
+  parent_id: cfir-8018351ba6f6a4d33d65
+  definition: The degree to which other implementation support have availability,
+    scope, and power to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-0197d313fec6903b6531
+  label: 'Individuals: G. Other Implementation Support / 4. Motivation'
+  parent_id: cfir-8018351ba6f6a4d33d65
+  definition: The degree to which other implementation support are committed to fulfilling
+    Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-ea8cd43705a05a476151
+  label: 'Individuals: H. Innovation Deliverers'
+  definition: Individuals who are directly or indirectly delivering the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-dc4569666a185dcc36e4
+  label: 'Individuals: H. Innovation Deliverers / 1. Need'
+  parent_id: cfir-ea8cd43705a05a476151
+  definition: The degree to which innovation deliverers have deficits related to survival,
+    well-being, or personal fulfillment, which will be addressed by implementation
+    and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-4b35d99880e8a92c01bb
+  label: 'Individuals: H. Innovation Deliverers / 2. Capability'
+  parent_id: cfir-ea8cd43705a05a476151
+  definition: The degree to which innovation deliverers have interpersonal competence,
+    knowledge, and skills to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-701cc7310f3b91c64b9e
+  label: 'Individuals: H. Innovation Deliverers / 3. Opportunity'
+  parent_id: cfir-ea8cd43705a05a476151
+  definition: The degree to which innovation deliverers have availability, scope,
+    and power to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-456ed722e089d1062df7
+  label: 'Individuals: H. Innovation Deliverers / 4. Motivation'
+  parent_id: cfir-ea8cd43705a05a476151
+  definition: The degree to which innovation deliverers are committed to fulfilling
+    Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-e42a7dfc8595fcbc2c96
+  label: 'Individuals: I. Innovation Recipients'
+  definition: Individuals who are directly or indirectly receiving the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-ba67770fb37900e93835
+  label: 'Individuals: I. Innovation Recipients / 1. Need'
+  parent_id: cfir-e42a7dfc8595fcbc2c96
+  definition: The degree to which innovation recipients have deficits related to survival,
+    well-being, or personal fulfillment, which will be addressed by implementation
+    and/or delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-dafda1d8faf15d247525
+  label: 'Individuals: I. Innovation Recipients / 2. Capability'
+  parent_id: cfir-e42a7dfc8595fcbc2c96
+  definition: The degree to which innovation recipients have interpersonal competence,
+    knowledge, and skills to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-bf171ec1ec8e5e52009d
+  label: 'Individuals: I. Innovation Recipients / 3. Opportunity'
+  parent_id: cfir-e42a7dfc8595fcbc2c96
+  definition: The degree to which innovation recipients have availability, scope,
+    and power to fulfill Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-02cf68b8351b43df12f2
+  label: 'Individuals: I. Innovation Recipients / 4. Motivation'
+  parent_id: cfir-e42a7dfc8595fcbc2c96
+  definition: The degree to which innovation recipients are committed to fulfilling
+    Role.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-c74e202f0f20c341b3bd
+  label: 'Implementation Process: A. Teaming'
+  definition: The degree to which individuals join together, intentionally coordinating
+    and collaborating on interdependent tasks, to implement the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-9df17ccafcd022fd3167
+  label: 'Implementation Process: B. Assessing Needs'
+  definition: 'The degree to which individuals collect information about priorities,
+    preferences, and needs of people. Note: Use this construct to capture themes related
+    to Assessing Needs that are not included in the subconstructs below.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-d2e3be32346ff668677b
+  label: 'Implementation Process: B. Assessing Needs / 1. Innovation Deliverers'
+  parent_id: cfir-9df17ccafcd022fd3167
+  definition: The degree to which individuals collect information about the priorities,
+    preferences, and needs of deliverers to guide implementation and delivery of the
+    innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-9a9c6bc061e1175c769a
+  label: 'Implementation Process: B. Assessing Needs / 2. Innovation Recipients'
+  parent_id: cfir-9df17ccafcd022fd3167
+  definition: The degree to which individuals collect information about the priorities,
+    preferences, and needs of recipients to guide implementation and delivery of the
+    innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-074029a9b2b1706edacd
+  label: 'Implementation Process: C. Assessing Context'
+  definition: The degree to which individuals collect information to identify and
+    appraise barriers and facilitators to implementation and delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-839343ed8825f9afcc4b
+  label: 'Implementation Process: D. Planning'
+  definition: The degree to which individuals identify roles and responsibilities,
+    outline specific steps and milestones, and define goals and measures for implementation
+    success in advance.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-54174dc06b163baee1e2
+  label: 'Implementation Process: E. Tailoring Strategies'
+  definition: The degree to which individuals choose and operationalize implementation
+    strategies to address barriers, leverage facilitators, and fit context.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-318c8ac6d21ebf08cef6
+  label: 'Implementation Process: F. Engaging'
+  definition: 'The degree to which individuals attract and encourage participation
+    in implementation and/or the innovation. Note: Use this construct to capture themes
+    related to Engaging that are not included in the subconstructs below.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-62496fc8f71414e971f6
+  label: 'Implementation Process: F. Engaging / 1. Innovation Deliverers'
+  parent_id: cfir-318c8ac6d21ebf08cef6
+  definition: The degree to which individuals attract and encourage deliverers to
+    serve on the implementation team and/or to deliver the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-358416c9a101c45c31ad
+  label: 'Implementation Process: F. Engaging / 2. Innovation Recipients'
+  parent_id: cfir-318c8ac6d21ebf08cef6
+  definition: The degree to which individuals attract and encourage recipients to
+    serve on the implementation team and/or participate in the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-2ccfa6eb725137085066
+  label: 'Implementation Process: G. Doing'
+  definition: The degree to which individuals implement in small steps, tests, or
+    cycles of change to trial and cumulatively optimize delivery of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-6d5c8ee5b96ed56be214
+  label: 'Implementation Process: H. Reflecting & Evaluating'
+  definition: 'The degree to which individuals collect and discuss quantitative and
+    qualitative information about the success of implementation. Note: Use this construct
+    to capture themes related to Reflecting & Evaluating that are not included in
+    the subconstructs below.'
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-f1a443c487cc453464ef
+  label: 'Implementation Process: H. Reflecting & Evaluating / 1. Implementation'
+  parent_id: cfir-6d5c8ee5b96ed56be214
+  definition: The degree to which individuals collect and discuss quantitative and
+    qualitive information about the success of implementation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-95aa82267108862a8261
+  label: 'Implementation Process: H. Reflecting & Evaluating / 2. Innovation'
+  parent_id: cfir-6d5c8ee5b96ed56be214
+  definition: The degree to which individuals collect and discuss quantitative and
+    qualitative information about the success of the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-858c9b0987e566350de5
+  label: 'Implementation Process: I. Adapting'
+  definition: The degree to which individuals modify the innovation and/or the Inner
+    Setting for optimal fit and integration into work processes.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-7649d8910d424ba79edb
+  label: 'Outcomes Addendum (Antecedent Assessments): A. Acceptability'
+  definition: "The extent to which an innovation is perceived as \u201Cagreeable,\
+    \ palatable, or satisfactory\" (Proctor et al., 2009)."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-a6645a0285208d468f9b
+  label: 'Outcomes Addendum (Antecedent Assessments): B. Appropriateness'
+  definition: "The \u201Cperceived fit, relevance, or compatibility of the innovation\
+    \ [\u2026] for a given practice setting, provider, or consumer; and/or perceived\
+    \ fit of the innovation to address a particular issue or problem\" (Proctor et\
+    \ al., 2009)."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-b144e7acd66228847d42
+  label: 'Outcomes Addendum (Antecedent Assessments): C. Feasibility'
+  definition: "The extent to which an innovation \u201Ccan be successfully used or\
+    \ carried out within a given agency or setting\" (Proctor et al., 2009)."
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-f31bf3a4558803d7780e
+  label: 'Outcomes Addendum (Antecedent Assessments): D. Implementation Climate'
+  definition: The extent to which the Inner Setting has a climate for implementation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-a02a1da52f99efc93b71
+  label: 'Outcomes Addendum (Antecedent Assessments): E. Implementation Readiness'
+  definition: The extent to which the Inner Setting is ready for implementation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-734766af8057148f2bb4
+  label: 'Outcomes Addendum (Implementation Outcomes): A. Anticipated Implementation
+    Outcomes'
+  definition: The likelihood of future implementation success or failure, i.e., implementation
+    outcomes that have not yet occurred. These outcomes are forward-looking; constellations
+    of CFIR determinants across domains predict these outcomes.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-db26334f698a47726b02
+  label: 'Outcomes Addendum (Implementation Outcomes): A. Anticipated Implementation
+    Outcomes / 1. Adoptability'
+  parent_id: cfir-734766af8057148f2bb4
+  definition: The likelihood key decision-makers will decide to put the innovation
+    in place/innovation deliverers will decide to deliver the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-77e4864d81251e87a4a3
+  label: 'Outcomes Addendum (Implementation Outcomes): A. Anticipated Implementation
+    Outcomes / 2. Implementability'
+  parent_id: cfir-734766af8057148f2bb4
+  definition: The likelihood the innovation will be put in place or delivered.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-458ba63845859e22701d
+  label: 'Outcomes Addendum (Implementation Outcomes): A. Anticipated Implementation
+    Outcomes / 3. Sustainability'
+  parent_id: cfir-734766af8057148f2bb4
+  definition: The likelihood the innovation will be put in place or delivered over
+    the long-term.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-039371774d4ab0fb2c04
+  label: 'Outcomes Addendum (Implementation Outcomes): B. Actual Implementation Outcomes'
+  definition: Current (or past) implementation success or failure, i.e., implementation
+    outcomes that have occurred. These outcomes are backward-looking; constellations
+    of CFIR determinants across domains explain these outcomes.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-183ce76cc0063ccb45a9
+  label: 'Outcomes Addendum (Implementation Outcomes): B. Actual Implementation Outcomes
+    / 1. Adoption'
+  parent_id: cfir-039371774d4ab0fb2c04
+  definition: The extent key decision-makers decide to put the innovation in place/innovation
+    deliverers decide to deliver the innovation.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-0bb86ab903f918b250ce
+  label: 'Outcomes Addendum (Implementation Outcomes): B. Actual Implementation Outcomes
+    / 2. Implementation'
+  parent_id: cfir-039371774d4ab0fb2c04
+  definition: The extent the innovation is in place or being delivered.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-a8e072939ed8c5a108c4
+  label: 'Outcomes Addendum (Implementation Outcomes): B. Actual Implementation Outcomes
+    / 3. Sustainment'
+  parent_id: cfir-039371774d4ab0fb2c04
+  definition: The extent the innovation is in place or being delivered over the long-term.
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-63aafcf9c642299f2e04
+  label: 'Outcomes Addendum (Innovation Outcomes): A. Innovation Recipient Impact'
+  definition: Recipient Reach x Innovation Effectiveness
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-84a5672cef4ac04fa006
+  label: 'Outcomes Addendum (Innovation Outcomes): B. Innovation Deliverer Impact'
+  definition: Deliverer Reach x Innovation Effectiveness
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true
+- id: cfir-ac20b575ee5434b387d9
+  label: 'Outcomes Addendum (Innovation Outcomes): C. Key-Decision Maker (or System)
+    Impact'
+  definition: Key-Decision Maker Reach x Innovation Effectiveness
+  inclusion_guidance: ''
+  exclusion_guidance: ''
+  examples: []
+  active: true

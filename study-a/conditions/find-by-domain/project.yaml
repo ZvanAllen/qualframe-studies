@@ -1,0 +1,36 @@
+project_id: study-a-find-by-domain
+title: "Study A 2x2 \u2013 find, by domain"
+created_at_utc: '2026-10-15T18:58:43.318238+00:00'
+data_classification: deidentified
+source_manifest: studies/study-a-find-by-domain/source_import_manifest.jsonl
+mode: transcript_first
+paths:
+  raw_transcripts: studies/study-a-find-by-domain/data/raw/transcripts
+  raw_workbooks: studies/study-a-find-by-domain/data/raw/workbooks
+  reference: studies/study-a-find-by-domain/data/reference
+  working: studies/study-a-find-by-domain/data/working
+  artifacts: studies/study-a-find-by-domain/artifacts
+  review_queue: studies/study-a-find-by-domain/review_queue
+  exports: studies/study-a-find-by-domain/exports
+  logs: studies/study-a-find-by-domain/logs
+governance:
+  enforce_review_gates: false
+  require_release_for_export: false
+structured_output:
+  enforce: false
+  spec: config/schemas/cfir_stage_outputs_v1.yaml
+framework: config/frameworks/directed_v3.yaml
+pipeline: config/pipelines/directed_content_analysis_contracts_v1.yaml
+method: studies/study-a-find-by-domain/config/method_v2.yaml
+review_policy: config/review_policies/complete_review_v1.yaml
+analysis_plan: config/analysis_plans/example_group_comparison_v1.yaml
+provider:
+  name: openai
+  model: gpt-6.1-sol
+  api_key_env: OPENAI_API_KEY
+  max_tokens: 32000
+  temperature: null
+  api_mode: responses
+  reasoning_effort: low
+  anthropic_effort: null
+codebook: studies/study-a-find-by-domain/config/codebook_v1.yaml
